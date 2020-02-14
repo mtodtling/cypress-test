@@ -3,4 +3,4 @@ import ReactDOM from 'react-dom'
 import TodoApp from './components/TodoApp'
 import './styles.css'
 
-ReactDOM.render(<TodoApp />, document.getElementById('app'))
+ReactDOM.render(<TodoApp/>, document.getElementById('app'))
